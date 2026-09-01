@@ -1,0 +1,277 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	ObsidianShortsword: {
+		DisplayName: Obsidian Shortsword
+		Tooltip: ""
+	}
+
+	ObsidianBroadsword: {
+		DisplayName: Obsidian Broadsword
+		Tooltip: ""
+	}
+
+	MagmiumBar: {
+		DisplayName: Magmium Bar
+		Tooltip: ""
+	}
+
+	MagmiumOre: {
+		DisplayName: Magmium Ore
+		Tooltip: ""
+	}
+
+	CooledMagmiumBar: {
+		DisplayName: Cooled Magmium Bar
+		Tooltip: ""
+	}
+
+	CooledMagmiumOre: {
+		DisplayName: Cooled Magmium Ore
+		Tooltip: ""
+	}
+
+	DragonglassDagger: {
+		DisplayName: Dragonglass Dagger
+		Tooltip: ""
+	}
+
+	CooledMagmiumPickaxe: {
+		DisplayName: Cooled Magmium Pickaxe
+		Tooltip: ""
+	}
+
+	CooledMagmiumWarhamaxe: {
+		DisplayName: Cooled Magmium Warhamaxe
+		Tooltip: ""
+	}
+
+	CooledMagmiumBrick: {
+		DisplayName: Cooled Magmium Brick
+		Tooltip: ""
+	}
+
+	MagmiumBrick: {
+		DisplayName: Magmium Brick
+		Tooltip: ""
+	}
+
+	CM47: {
+		DisplayName: C M47
+		Tooltip:
+			'''
+			Three round burst
+			Only the first shot consumes ammo
+			'''
+	}
+
+	CooledMagmiumHelmet: {
+		DisplayName: Cooled Magmium Helmet
+		Tooltip:
+			'''
+			6% increased critical strike chance
+			Increases your max number of minions by 1
+			'''
+	}
+
+	CooledMagmiumBreastplate: {
+		DisplayName: Cooled Magmium Breastplate
+		Tooltip:
+			'''
+			6% increased critical strike chance
+			Grants immunity to Bleeding and Broken Armor
+			'''
+	}
+
+	CooledMagmiumLeggings: {
+		DisplayName: Cooled Magmium Leggings
+		Tooltip:
+			'''
+			6% increased critical strike chance
+			5% increased movement speed
+			'''
+	}
+
+	StraySoul: {
+		DisplayName: Stray Soul
+		Tooltip: I'm lost at sea. Don't bother me.
+	}
+
+	Navy: {
+		DisplayName: Navy
+		Tooltip: ""
+	}
+
+	Deathfelsen: {
+		DisplayName: Deathfelsen
+		Tooltip: ""
+	}
+
+	Pentagram: {
+		DisplayName: Pentagram
+		Tooltip: ""
+	}
+
+	Krullkite: {
+		DisplayName: Krullkite
+		Tooltip: ""
+	}
+
+	MasterStaff: {
+		DisplayName: Master Staff
+		Tooltip: ""
+	}
+
+	GrandeStaff: {
+		DisplayName: Grande Staff
+		Tooltip: ""
+	}
+
+	DevilHorn: {
+		DisplayName: Devil Horn
+		Tooltip: ""
+	}
+
+	PendantOfHellfire: {
+		DisplayName: Pendant Of Hellfire
+		Tooltip:
+			'''
+			Burn all onscreen enemies
+			Less effective against fire immune targets
+			'''
+	}
+
+	UnderworldEdger: {
+		Tooltip: ""
+		DisplayName: Underworld Edger
+	}
+
+	BookOfRevelation: {
+		DisplayName: Book of Revelation
+		Tooltip:
+			'''
+			Fires a sphere that destroys all blocks in a wide radius
+			Alt fire destroys sphere early
+			'''
+	}
+
+	PotionOfBloodAndFire: {
+		DisplayName: Potion Of Blood And Fire
+		Tooltip: ""
+	}
+
+	DemonFin: {
+		DisplayName: Demon Fin
+		Tooltip: ""
+	}
+
+	Demonjaws: {
+		DisplayName: Demonjaws
+		Tooltip: ""
+	}
+
+	SuspiciousBrokenBottle: {
+		DisplayName: Suspicious Broken Bottle
+		Tooltip: May give a random buff, or not...
+	}
+
+	BlueBalmoral: {
+		DisplayName: Blue Balmoral
+		Tooltip:
+			'''
+			5% increased critical strike chance
+			Increases your max number of minions by 3
+			'''
+	}
+
+	BloodBrew: {
+		DisplayName: Blood Brew
+		Tooltip: Still bubbling, bubbling, bubbling away
+	}
+
+	MagmiumBrickWall: {
+		DisplayName: Magmium Brick Wall
+		Tooltip: ""
+	}
+
+	CooledMagmiumBrickWall: {
+		DisplayName: Cooled Magmium Brick Wall
+		Tooltip: ""
+	}
+
+	HellKnife: {
+		DisplayName: Hell Knife
+		Tooltip: ""
+	}
+
+	HellStar: {
+		DisplayName: Hell Star
+		Tooltip: ""
+	}
+
+	DemonicPaste: {
+		DisplayName: Demonic Paste
+		Tooltip: ""
+	}
+
+	MagmiumBreastplate: {
+		DisplayName: Magmium Breastplate
+		Tooltip: ""
+	}
+
+	MagmiumHelmet: {
+		DisplayName: Magmium Helmet
+		Tooltip: ""
+	}
+
+	MagmiumLeggings: {
+		DisplayName: Magmium Leggings
+		Tooltip: ""
+	}
+
+	Magmaul: {
+		DisplayName: Magmaul
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	ObsidianShortswordProjectile.DisplayName: Obsidian Shortsword Projectile
+	DragonglassDaggerProjectile.DisplayName: Dragonglass Dagger Projectile
+	NavyProjectile.DisplayName: Navy Projectile
+	SparklingBall.DisplayName: Sparkling Ball
+	MasterStaffProjectile.DisplayName: Master Staff Projectile
+	GrandeStaffProjectile.DisplayName: Grande Staff Projectile
+	GrandeStaffProjectileAltA.DisplayName: Grande Staff Projectile Alt A
+	MasterStaffProjectileAltA.DisplayName: Master Staff Projectile Alt A
+	HellBall.DisplayName: Hell Ball
+	HellKnifeProjectile.DisplayName: Hell Knife Projectile
+	HellStarProjectile.DisplayName: Hell Star Projectile
+}
+
+Tiles: {
+	MagmiumOre.MapEntry: Magmium Ore
+	CooledMagmiumOre.MapEntry: Cooled Magmium Ore
+	PentagramPlaced.MapEntry: Pentagram Placed
+}
+
+WorldGen.MagmiumOrePassMessage: Mods.HellPlus.WorldGen.MagmiumOrePassMessage
+
+Buffs: {
+	PureHellfire: {
+		DisplayName: Pure Hellfire
+		Description: You are the devil
+	}
+
+	Fury: {
+		DisplayName: Fury
+		Description: Burning nearby enemies, but you are now losing defense!
+	}
+
+	Randomness: {
+		DisplayName: Randomness
+		Description: Have a random buff (or debuff) on us!
+	}
+}
+
+NPCs.DemonDolphin.DisplayName: Demon Dolphin

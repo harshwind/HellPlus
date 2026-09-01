@@ -1,0 +1,3 @@
+displayName = HellPlus
+author = me
+version = 0.0.2
